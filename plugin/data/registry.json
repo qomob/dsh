@@ -6892,6 +6892,11 @@
    "installCmd": "dsh plugin add \"github:Beeasy-L/DSH-plugin-market\"",
    "url": "https://github.com/Beeasy-L/DSH-plugin-market",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:29:19.658Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-20T10:06:16Z",
    "repoSizeKb": 331,
    "homepage": "https://beeasy-l.github.io/DSH-plugin-market/",
@@ -17318,6 +17323,11 @@
    "installCmd": "dsh plugin add \"github:xichen-62/dsh-power-menu\"",
    "url": "https://github.com/xichen-62/dsh-power-menu",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:29:44.094Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-10-17T17:12:33Z",
    "repoSizeKb": 260,
    "language": "JavaScript",
@@ -31538,6 +31548,11 @@
    "installCmd": "dsh plugin add \"github:sayzwx/dsh-custom-model\"",
    "url": "https://github.com/sayzwx/dsh-custom-model",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:30:18.668Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-10-11T13:41:21Z",
    "repoSizeKb": 11646,
    "homepage": "https://github.com/sayzwx/dsh-custom-model#readme",
@@ -43432,6 +43447,11 @@
    "installCmd": "dsh plugin add \"github:paulwang123/dsh-stock-panel\"",
    "url": "https://github.com/paulwang123/dsh-stock-panel",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:30:46.802Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-20T04:48:53Z",
    "repoSizeKb": 31,
    "language": "JavaScript",
@@ -44021,6 +44041,11 @@
    "installCmd": "dsh plugin add \"github:sayzwx/dsh-daily-workspace\"",
    "url": "https://github.com/sayzwx/dsh-daily-workspace",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:30:48.167Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-06-13T08:41:58Z",
    "repoSizeKb": 372,
    "homepage": "https://github.com/sayzwx/dsh-daily-workspace",
@@ -47459,6 +47484,11 @@
    "installCmd": "dsh plugin add \"github:LZM-P/dsh-plugin-rack\"",
    "url": "https://github.com/LZM-P/dsh-plugin-rack",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:30:56.630Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-13T15:39:53Z",
    "repoSizeKb": 2180,
    "language": "JavaScript",
@@ -52549,6 +52579,11 @@
    "installCmd": "dsh plugin add \"github:LeiSureYu/dsh-chat\"",
    "url": "https://github.com/LeiSureYu/dsh-chat",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:08.810Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-19T17:55:33Z",
    "repoSizeKb": 76,
    "language": "TypeScript",
@@ -53462,6 +53497,11 @@
    "installCmd": "dsh plugin add \"github:7ygys/dsh-fishchat\"",
    "url": "https://github.com/7ygys/dsh-fishchat",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:10.970Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-15T14:17:35Z",
    "repoSizeKb": 213,
    "language": "JavaScript",
@@ -53888,6 +53928,11 @@
    "installCmd": "dsh plugin add \"github:ALICExhcm/dsh-transcript-turbo\"",
    "url": "https://github.com/ALICExhcm/dsh-transcript-turbo",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:12.075Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-20T01:04:40Z",
    "repoSizeKb": 48,
    "language": "JavaScript",
@@ -54503,6 +54548,11 @@
    "installCmd": "dsh plugin add \"github:barnetshen/dsh-yingma-canvas\"",
    "url": "https://github.com/barnetshen/dsh-yingma-canvas",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:13.643Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-19T13:38:13Z",
    "repoSizeKb": 533,
    "homepage": "https://yingma.tv",
@@ -54880,6 +54930,11 @@
    "installCmd": "dsh plugin add \"github:cccccccccccccy/dsh-session-reminder\"",
    "url": "https://github.com/cccccccccccccy/dsh-session-reminder",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:14.607Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-11T23:38:35Z",
    "repoSizeKb": 20,
    "language": "JavaScript",
@@ -56953,6 +57008,11 @@
    "installCmd": "dsh plugin add \"github:gezi-wen/dsh-panel-order\"",
    "url": "https://github.com/gezi-wen/dsh-panel-order",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:19.788Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-10-27T10:35:34Z",
    "repoSizeKb": 33,
    "language": "JavaScript",
@@ -57906,6 +57966,11 @@
    "installCmd": "dsh plugin add \"github:intelfabs/dsh-file-library\"",
    "url": "https://github.com/intelfabs/dsh-file-library",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:22.217Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-18T05:23:46Z",
    "repoSizeKb": 141,
    "language": "JavaScript",
@@ -61700,6 +61765,11 @@
    "installCmd": "dsh plugin add \"github:pengtang1024/dsh-quick-phrases\"",
    "url": "https://github.com/pengtang1024/dsh-quick-phrases",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:31.452Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-18T03:53:13Z",
    "repoSizeKb": 1737,
    "language": "JavaScript",
@@ -61855,6 +61925,11 @@
    "installCmd": "dsh plugin add \"github:Qing8-Max/dsh-native-shot\"",
    "url": "https://github.com/Qing8-Max/dsh-native-shot",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:31.850Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-19T18:19:09Z",
    "repoSizeKb": 19,
    "language": "JavaScript",
@@ -62163,6 +62238,11 @@
    "installCmd": "dsh plugin add \"github:RealWof/dsh-agent-team-viewer\"",
    "url": "https://github.com/RealWof/dsh-agent-team-viewer",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:32.568Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-20T00:59:29Z",
    "repoSizeKb": 3186,
    "language": "JavaScript",
@@ -63433,6 +63513,11 @@
    "installCmd": "dsh plugin add \"github:susirsusir/dsh-follow-up-prompts\"",
    "url": "https://github.com/susirsusir/dsh-follow-up-prompts",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:35.536Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-19T08:55:46Z",
    "repoSizeKb": 148,
    "language": "JavaScript",
@@ -63530,6 +63615,11 @@
    "installCmd": "dsh plugin add \"github:SUZUNAMI/dsh-cv-warm\"",
    "url": "https://github.com/SUZUNAMI/dsh-cv-warm",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:35.791Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-17T08:32:05Z",
    "repoSizeKb": 3,
    "descriptionZh": "跳过屏幕外转录渲染（content-visibility），并预热视口附近的区块，以实现DSH中的平滑滚动。",
@@ -63554,6 +63644,11 @@
    "installCmd": "dsh plugin add \"github:SUZUNAMI/dsh-has-stripper\"",
    "url": "https://github.com/SUZUNAMI/dsh-has-stripper",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:35.849Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-17T08:31:37Z",
    "repoSizeKb": 3,
    "language": "JavaScript",
@@ -65631,6 +65726,11 @@
    "installCmd": "dsh plugin add \"github:yinchuanqi/gis-workbench\"",
    "url": "https://github.com/yinchuanqi/gis-workbench",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:40.790Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-19T07:30:48Z",
    "repoSizeKb": 1664,
    "language": "JavaScript",
@@ -67395,6 +67495,11 @@
    "installCmd": "dsh plugin add \"github:CPHWQ/dsh-balance-strip\"",
    "url": "https://github.com/CPHWQ/dsh-balance-strip",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:45.092Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-07T11:33:25Z",
    "repoSizeKb": 102,
    "homepage": "https://www.npmjs.com/package/dsh-balance-strip",
@@ -67894,6 +67999,11 @@
    "installCmd": "dsh plugin add \"github:H-ATK/dsh-usage\"",
    "url": "https://github.com/H-ATK/dsh-usage",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:46.244Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-19T12:43:28Z",
    "repoSizeKb": 354,
    "homepage": "https://github.com/H-ATK/dsh-usage/releases",
@@ -68426,6 +68536,11 @@
    "installCmd": "dsh plugin add \"github:ilyshkafox/dsh-plusvibe-balance\"",
    "url": "https://github.com/ilyshkafox/dsh-plusvibe-balance",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:47.504Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-19T07:44:33Z",
    "repoSizeKb": 145,
    "language": "JavaScript",
@@ -68558,6 +68673,11 @@
    "installCmd": "dsh plugin add \"github:kasshuang/dsh-plugin-balance-usage\"",
    "url": "https://github.com/kasshuang/dsh-plugin-balance-usage",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:47.839Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-20T02:57:02Z",
    "repoSizeKb": 229,
    "language": "JavaScript",
@@ -70591,6 +70711,11 @@
    "installCmd": "dsh plugin add \"github:zer0-lyz/dsh-ty-workbench\"",
    "url": "https://github.com/zer0-lyz/dsh-ty-workbench",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:52.821Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-19T16:28:09Z",
    "repoSizeKb": 965,
    "language": "JavaScript",
@@ -71798,6 +71923,11 @@
    "installCmd": "dsh plugin add \"github:LiuHongXuMaritime/dsh-nebula-spectrum\"",
    "url": "https://github.com/LiuHongXuMaritime/dsh-nebula-spectrum",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:55.635Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-20T13:20:56Z",
    "repoSizeKb": 110,
    "homepage": "https://github.com/LiuHongXuMaritime/dsh-nebula-spectrum",
@@ -71935,6 +72065,11 @@
    "installCmd": "dsh plugin add \"github:MisakaChino/dsh-wallpaper-glass\"",
    "url": "https://github.com/MisakaChino/dsh-wallpaper-glass",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:55.963Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-10T22:59:58Z",
    "repoSizeKb": 1563,
    "language": "JavaScript",
@@ -72375,6 +72510,11 @@
    "installCmd": "dsh plugin add \"github:xiaomao361/dsh-afterwave-style\"",
    "url": "https://github.com/xiaomao361/dsh-afterwave-style",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:31:57.068Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-20T05:42:54Z",
    "repoSizeKb": 333,
    "language": "JavaScript",
@@ -93159,6 +93299,11 @@
    "installCmd": "dsh plugin add \"github:Raysnows/dsh-quick-send\"",
    "url": "https://github.com/Raysnows/dsh-quick-send",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:32:48.149Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-10-17T17:16:09Z",
    "repoSizeKb": 66,
    "homepage": "https://github.com/1250589385/DSH-Quick-Send",
@@ -93184,6 +93329,11 @@
    "installCmd": "dsh plugin add \"github:Raysnows/dsh-vendor-quick-switch\"",
    "url": "https://github.com/Raysnows/dsh-vendor-quick-switch",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:32:48.214Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-16T17:47:05Z",
    "repoSizeKb": 47,
    "homepage": "https://github.com/raysnows/dsh-vendor-quick-switch",
@@ -95086,6 +95236,11 @@
    "installCmd": "dsh plugin add \"github:SamuelChung2010/DSHift\"",
    "url": "https://github.com/SamuelChung2010/DSHift",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:32:53.108Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-19T04:06:14Z",
    "repoSizeKb": 2279,
    "language": "JavaScript"
@@ -96352,6 +96507,11 @@
    "installCmd": "dsh plugin add \"github:yanli-nyan/dsh-open-in-app-fix\"",
    "url": "https://github.com/yanli-nyan/dsh-open-in-app-fix",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:32:56.323Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-10-23T05:46:54Z",
    "repoSizeKb": 78,
    "language": "JavaScript",
@@ -96371,6 +96531,11 @@
    "installCmd": "dsh plugin add \"github:yanli-nyan/dsh-sidebar-entry-manager\"",
    "url": "https://github.com/yanli-nyan/dsh-sidebar-entry-manager",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:32:56.384Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-10-24T13:43:32Z",
    "repoSizeKb": 72,
    "language": "JavaScript",
@@ -99214,6 +99379,11 @@
    "installCmd": "dsh plugin add \"github:Fantasy-XY808/dsh-every-models\"",
    "url": "https://github.com/Fantasy-XY808/dsh-every-models",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:33:04.025Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-15T01:14:51Z",
    "repoSizeKb": 881,
    "language": "JavaScript",
@@ -99812,6 +99982,11 @@
    "installCmd": "dsh plugin add \"github:AlienwareBoy/dsh-stage-chat\"",
    "url": "https://github.com/AlienwareBoy/dsh-stage-chat",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:33:05.636Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-20T13:45:48Z",
    "repoSizeKb": 24662,
    "language": "JavaScript",
@@ -100181,6 +100356,11 @@
    "installCmd": "dsh plugin add \"github:davidmengjie/dsh-workspace-context-helper\"",
    "url": "https://github.com/davidmengjie/dsh-workspace-context-helper",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:33:06.626Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-19T08:38:23Z",
    "repoSizeKb": 22,
    "language": "JavaScript",
@@ -108610,6 +108790,11 @@
    "installCmd": "dsh plugin add \"github:SorenLorn/dsh-onepiece-balance-widget\"",
    "url": "https://github.com/SorenLorn/dsh-onepiece-balance-widget",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:33:28.874Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-13T15:37:18Z",
    "repoSizeKb": 118777,
    "language": "JavaScript",
@@ -109548,6 +109733,11 @@
    "installCmd": "dsh plugin add \"github:XKPU/dsh-sloppatterns\"",
    "url": "https://github.com/XKPU/dsh-sloppatterns",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:33:31.325Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-19T13:27:51Z",
    "repoSizeKb": 611,
    "homepage": "https://www.npmjs.com/package/dsh-sloppatterns",
@@ -109771,6 +109961,11 @@
    "installCmd": "dsh plugin add \"github:Yellster/dsh-regenerate\"",
    "url": "https://github.com/Yellster/dsh-regenerate",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:33:31.899Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-15T03:57:13Z",
    "repoSizeKb": 93,
    "language": "JavaScript",
@@ -109944,6 +110139,11 @@
    "installCmd": "dsh plugin add \"github:Yyyl99/dsh-selection-translate\"",
    "url": "https://github.com/Yyyl99/dsh-selection-translate",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:33:32.358Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-19T14:14:45Z",
    "repoSizeKb": 170,
    "language": "JavaScript",
@@ -112233,6 +112433,11 @@
    "installCmd": "dsh plugin add \"github:ExTetragon/dsh-illuminating-skin\"",
    "url": "https://github.com/ExTetragon/dsh-illuminating-skin",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:33:38.337Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-10-30T09:27:09Z",
    "repoSizeKb": 2319,
    "language": "JavaScript",
@@ -112284,6 +112489,11 @@
    "installCmd": "dsh plugin add \"github:harveyzhang/dsh-appearance-media\"",
    "url": "https://github.com/harveyzhang/dsh-appearance-media",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:33:38.472Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-20T15:50:24Z",
    "repoSizeKb": 823,
    "language": "JavaScript",
@@ -121778,6 +121988,11 @@
    "installCmd": "dsh plugin add \"github:xiaoxiaolelang-ai/dsh-next-move\"",
    "url": "https://github.com/xiaoxiaolelang-ai/dsh-next-move",
    "firstSeenAt": "2026-11-22T05:35:48.595Z",
+   "tier": "unverified",
+   "auditAt": "2026-11-23T06:34:03.908Z",
+   "riskSignals": [
+    "audit failed: GitHub API rate limit exhausted. Set the githubToken config (or DSH_PLUGIN_HUB_T"
+   ],
    "publishedAt": "2026-11-07T13:33:23Z",
    "repoSizeKb": 310,
    "language": "JavaScript",
